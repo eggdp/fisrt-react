@@ -19,3 +19,5 @@ function App() {
 }
 
 export default App;
+
+// 레파지토리 만들고 > git init > git commit -m "first" >

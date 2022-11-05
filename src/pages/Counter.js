@@ -23,6 +23,7 @@ const Counter = () => {
 
         {/* <Link to={"/"}>메인으로 이동</Link> */}
         <button onClick={() => navigate("/")}>메인으로 이동</button>
+        <Footer />
       </div>
     </HeadlessLayout>
   );
